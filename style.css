@@ -25,6 +25,7 @@
             font-weight: 700;
             letter-spacing: 2px;
             text-transform: uppercase;
+            gap: 20px;
         }
         .logo span {
             color: #000000;
@@ -87,7 +88,7 @@
         .hero h1 {
             font-size: 5rem;
             margin-bottom: 1rem;
-            text-shadow: 0 0 10px rgba(0,0,0,0.5);
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
             letter-spacing: 3px;
         }
         .hero p {
@@ -113,7 +114,7 @@
         .btn:hover {
             background: #b99898;
             transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(165, 27, 27, 0.4);
+            box-shadow: 0 5px 15px rgba(240, 239, 239, 0.4);
         }
         .albums-section {
             padding: 5rem 5%;
@@ -149,7 +150,7 @@
         }
         .album-card:hover {
             transform: translateY(-10px);
-            box-shadow: 0 10px 30px rgba(95, 49, 49, 0.3);
+            box-shadow: 0 10px 30px rgba(255, 198, 198, 0.3);
         }
         .album-img {
             width: 100%;
